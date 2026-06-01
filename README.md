@@ -4,7 +4,7 @@ Trivia-App es un juego de preguntas y respuestas sobre informática desarrollado
 
 ---
 
-## ⭐ Características principales
+## Características principales
 
 - **Interfaz Declarativa:** Construida totalmente con Jetpack Compose para una experiencia fluida
 - **Sistema de Preguntas:** Base de datos extensa de preguntas sobre informática
@@ -19,7 +19,7 @@ Trivia-App es un juego de preguntas y respuestas sobre informática desarrollado
 
 ---
 
-## 📸 Capturas de Pantalla
+## Capturas de Pantalla
 
 ### Inicio del Juego
 Pantalla principal y menú para comenzar la experiencia.
@@ -44,7 +44,7 @@ Indicador visual de progreso y pantalla de resultados.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * **Lenguaje:** [Kotlin](https://kotlinlang.org/)
 * **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose)
@@ -57,19 +57,19 @@ Indicador visual de progreso y pantalla de resultados.
 
 ---
 
-## 🎮 Flujo del Juego
+## Flujo del Juego
 
-1. **Pantalla de Inicio** → Menú principal para comenzar
-2. **Selección de Categoría** → Elige el tema de tus preguntas
-3. **Selección de Dificultad** → Elige nivel (Principiante, Intermedio, Experto)
-4. **Juego** → Responde preguntas con temporizador activo
-5. **Validación** → Sistema indica si es correcto o incorrecto
-6. **Puntuación** → Pantalla final con tu desempeño
-7. **Compartir** → Opción para enviar resultados a otros
+1. **Pantalla de Inicio** - Menú principal para comenzar
+2. **Selección de Categoría** - Elige el tema de tus preguntas
+3. **Selección de Dificultad** - Elige nivel (Principiante, Intermedio, Experto)
+4. **Juego** - Responde preguntas con temporizador activo
+5. **Validación** - Sistema indica si es correcto o incorrecto
+6. **Puntuación** - Pantalla final con tu desempeño
+7. **Compartir** - Opción para enviar resultados a otros
 
 ---
 
-## 📋 Instalación y Uso
+## Instalación y Uso
 
 1. Clona este repositorio:
    ```bash
